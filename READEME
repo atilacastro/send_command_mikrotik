@@ -1,1 +1,8 @@
 # Send command to RouterBoard Mikrotik
+
+############################################################################
+# Send a command of configuration via SSH to RouterBoards Mikrotik
+# enviacomandomkt.sh – v.0.1 – 2017/05/01
+#
+# Autor: Átila Castro
+############################################################################
